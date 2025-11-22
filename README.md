@@ -4,7 +4,6 @@ This repository contains pre-compiled MEX files necessary to use the [Ipopt](htt
 
 The primary goal is to avoid recompiling the MEX interface on every new machine. The files included are:
 *   `ipopt.mexmaca64`: The main compiled interface.
-*   `ipopt_auxdata.m`: A required helper script.
 
 ## Setup Instructions
 
